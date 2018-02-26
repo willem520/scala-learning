@@ -12,7 +12,7 @@ class TypeVariableBound {
   }
 }
 
-object typeVariableBoundDemo {
+object TypeVariableBoundDemo {
 
   def main(args: Array[String]): Unit = {
     val tvb = new TypeVariableBound
