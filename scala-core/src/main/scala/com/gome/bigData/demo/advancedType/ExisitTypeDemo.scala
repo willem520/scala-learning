@@ -1,10 +1,10 @@
-package com.gome.bigData.demo
+package com.gome.bigData.demo.advancedType
 
 /**
   * @author weiyu@gomeholdings.com
   * @create 2017/11/17
   */
-object ExistTypeTest {
+object ExistTypeDemo {
 
   def print(x:Array[_]) = println(x)
 
