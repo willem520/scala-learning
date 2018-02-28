@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 2" modules="scala-core,scala,akka" />
+    <profile name="Maven 2" modules="scala,scala-core,akka" />
   </component>
 </project>
