@@ -8,7 +8,7 @@ object Example_01 extends App {
   class MyActor extends Actor {
     val log = Logging(context.system,this)
 
-    override def receive: Receive = {
+    override def receive : Receive = {
       case "test" => log.info("received test")
       case _ => log.info("received unknown message")
     }
