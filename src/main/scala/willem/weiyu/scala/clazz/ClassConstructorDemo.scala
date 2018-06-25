@@ -6,7 +6,6 @@ package willem.weiyu.scala.clazz
   * 对于private var修饰的参数：内部可读/可改写 （编译器不会为私有类参数（字段）自动生成getter和setter）
   * 对于private val修饰的参数：内部可读/不可改写 （编译器不会为该类参数（字段）自动生成getter和setter）
   *
-  * @param str
   */
 class Person1(var firstName:String, var lastName:String){
   println("the constructor begins")
