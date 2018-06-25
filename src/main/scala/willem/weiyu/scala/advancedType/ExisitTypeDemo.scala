@@ -1,7 +1,7 @@
 package willem.weiyu.scala.advancedType
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   * @create 2017/11/17
   */
 object ExistTypeDemo {

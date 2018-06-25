@@ -3,7 +3,7 @@ package willem.weiyu.scala.seq
 import scala.collection.immutable.Queue
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   * 队列操作
   * @create 2017/11/13
   */

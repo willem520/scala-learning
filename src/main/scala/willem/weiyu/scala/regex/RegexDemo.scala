@@ -1,7 +1,7 @@
 package willem.weiyu.scala.regex
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   * 正则表达式
   * @create 2017/11/9
   */

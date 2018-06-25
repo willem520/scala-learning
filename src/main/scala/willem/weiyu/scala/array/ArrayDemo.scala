@@ -1,7 +1,7 @@
 package willem.weiyu.scala.array
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   * 数组
   * @create 2018/02/22
   */

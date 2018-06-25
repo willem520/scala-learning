@@ -3,7 +3,7 @@ package willem.weiyu.scala.exception
 import java.io.{FileNotFoundException, FileReader, IOException}
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   * @create 2017/11/9
   */
 object ExceptionDemo {

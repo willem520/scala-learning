@@ -3,7 +3,7 @@ package willem.weiyu.scala.seq
 import scala.collection.immutable.Stack
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   * 栈操作
   * @create 2017/11/13
   */

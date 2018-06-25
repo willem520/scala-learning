@@ -1,7 +1,7 @@
 package willem.weiyu.scala.patternMatch
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   * 简单模式匹配
   * @create 2018/02/24
   */

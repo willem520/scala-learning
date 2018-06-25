@@ -1,7 +1,7 @@
 package willem.weiyu.scala.operator
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   *         位运算符
   * @create 2017/11/7
   */

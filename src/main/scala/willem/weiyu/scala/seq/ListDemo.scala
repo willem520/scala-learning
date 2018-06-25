@@ -1,7 +1,7 @@
 package willem.weiyu.scala.seq
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   *         list操作
   */
 object ListDemo {

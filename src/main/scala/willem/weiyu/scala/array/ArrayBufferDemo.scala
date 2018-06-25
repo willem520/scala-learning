@@ -3,7 +3,7 @@ package willem.weiyu.scala.array
 import scala.collection.mutable.ArrayBuffer
 
 /**
-  * @author weiyu@gomeholdings.com
+  * @author weiyu
   * 变长数组
   * @create 2017/11/13
   */
