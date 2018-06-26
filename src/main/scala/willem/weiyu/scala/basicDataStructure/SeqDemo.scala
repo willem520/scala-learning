@@ -1,4 +1,4 @@
-package willem.weiyu.scala.seq
+package willem.weiyu.scala.basicDataStructure
 
 object SeqDemo extends App {
   val numbers = Seq(11, 2, 5, 1, 6, 3, 9)

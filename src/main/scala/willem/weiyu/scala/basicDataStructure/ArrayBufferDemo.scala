@@ -1,4 +1,4 @@
-package willem.weiyu.scala.array
+package willem.weiyu.scala.basicDataStructure
 
 import scala.collection.mutable.ArrayBuffer
 

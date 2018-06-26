@@ -1,4 +1,4 @@
-package willem.weiyu.scala.seq
+package willem.weiyu.scala.basicDataStructure
 
 /**
   * @author weiyu
