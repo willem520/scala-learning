@@ -21,7 +21,7 @@ class Person {
 class Student extends Person{
   private var studentNo : String = null
 
-  def setStudentNo(studentNo : String) ={
+  def setStudentNo(studentNo : String):this.type ={
     this.studentNo = studentNo
     this
   }
