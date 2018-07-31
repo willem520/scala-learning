@@ -1,5 +1,10 @@
 package willem.weiyu.scala.loop
 
+/**
+  * @author weiyu
+  * do...while循环
+  * @create 2017/11/7
+  */
 object DoWhileLoop {
 
   def main(args: Array[String]): Unit = {

@@ -1,5 +1,10 @@
 package willem.weiyu.scala.loop
 
+/**
+  * @author weiyu
+  * for循环
+  * @create 2017/11/7
+  */
 object ForLoop {
 
   def main(args: Array[String]): Unit = {
