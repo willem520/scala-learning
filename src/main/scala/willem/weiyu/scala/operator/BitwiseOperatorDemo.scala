@@ -2,10 +2,11 @@ package willem.weiyu.scala.operator
 
 /**
   * @author weiyu
-  *         位运算符
+  * 位运算符
   * @create 2017/11/7
   */
 object BitwiseOperatorDemo {
+
   def main(args: Array[String]): Unit = {
     //60 = 0011 1100
     val a = 60
