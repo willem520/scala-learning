@@ -6,6 +6,7 @@ package willem.weiyu.scala.operator
   * @create 2017/11/7
   */
 object ArithmeticOperatorDemo {
+
   def main(args: Array[String]): Unit = {
     val a = 10
     val b = 20
