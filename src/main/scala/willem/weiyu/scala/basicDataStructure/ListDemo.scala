@@ -2,19 +2,20 @@ package willem.weiyu.scala.basicDataStructure
 
 /**
   * @author weiyu
-  *         list操作
+  * List操作
   */
 object ListDemo {
 
   def main(args: Array[String]): Unit = {
     //字符串列表
     var site = List("google", "baidu", "sina")
+    //在列表开头添加元素
     println(site.::("twitter"))
 
     //取第一个元素
     println("第一个元素是：" + site.head)
 
-    //取除第一个元素外的其他元素
+    //取出第一个元素外的其他元素
     println("剩余元素是：" + site.tail)
 
     //整形列表
