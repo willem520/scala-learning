@@ -6,24 +6,8 @@
     <version>1.0.0</version>
 
     <properties>
-        <scala.version>2.11.11</scala.version>
+        <scala.version>2.12.8</scala.version>
+        <scala.library.version>2.12</scala.library.version>
     </properties>
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.scala-tools</groupId>
-                <artifactId>maven-scala-plugin</artifactId>
-                <version>2.15.2</version>
-                <executions>
-                    <execution>
-                        <goals>
-                            <goal>compile</goal>
-                            <goal>testCompile</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
-        </plugins>
-    </build>
 </project>
