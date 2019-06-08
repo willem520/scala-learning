@@ -1,5 +1,8 @@
 package willem.weiyu.scala.basicType
 
+/**
+  * scala数据分为变量（var）和常量（val）
+  */
 object BasicTypeDemo {
 
   def main(args: Array[String]): Unit = {
